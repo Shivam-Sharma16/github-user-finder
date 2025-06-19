@@ -28,4 +28,4 @@ A simple and elegant web application to search for GitHub users and display thei
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/github-user-finder.git
+git clone https://github.com/Shivam-Sharma16/github-user-finder.git
